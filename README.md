@@ -3,6 +3,9 @@
 
 Is the value an object or an array but not null or RegExp?
 
+# Migrate
+Because I lost my 2 factor authentic token, https://github.com/indentjs/objectorarray has moved to this repo!
+
 ## Install
 
 ```
